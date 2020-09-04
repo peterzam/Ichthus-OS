@@ -1,7 +1,7 @@
 # Ichthus-OS
 Debian based Ichthus OS build with LFS
 
-Live ISO - https://sourceforge.net/projects/ichthus-os/
+Live ISO - https://os.peterzam.dev
 
 ![Alt text](https://raw.githubusercontent.com/peterzam/Ichthus-OS/master/Screenshot.png?raw=true)
 
